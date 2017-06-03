@@ -1,0 +1,101 @@
+
+body {
+
+
+
+     }
+
+container-fluid{
+
+               }
+
+#header {
+         text-align: center;
+         background-image: url("../IMAGES/landing.jpg");
+         background-size: 100% 100%;
+         background-repeat: no-repeat;
+
+
+       }
+
+#logo {
+       padding-left: 5%;
+
+
+
+      }
+
+#happy{
+
+       width: 100%;
+       height: 500px;
+       background-size: 100% 100%;
+    
+}
+#happyhour{
+  width: 100%;
+  height: 250px;
+  background-size: 100% 100%;
+  font-size: large;
+  text-align: center;
+  color: black;
+
+}
+
+#partytime {
+  width: 100%;
+  height: 250px;
+  background-size: 100% 100%;
+  background-color: orange;
+  font-size: large;
+  text-align: center;
+  color: white;
+
+
+
+}
+#breakfast{
+
+            width: 100%;
+            height: 500px;
+            background-size: 100% 100%;
+            font-size: large;
+
+            background-image: url("../IMAGES/breakfast.jpg");
+            background-repeat: no-repeat;
+            color: white;
+            text-align: center;
+            line-height: 10%;
+
+
+}
+
+#lunch{
+
+        width: 100%;
+        height: 500px;
+        background-size: 100% 100%;
+        font-size: large;
+
+        background-image: url("../IMAGES/lunch.jpg" );
+        background-repeat: no-repeat;
+        color: white;
+        text-align: center;
+        line-height: 10%;
+
+
+}
+
+#dinner{
+
+         width: 100%;
+         height: 500px;
+         background-size: 100% 100%;
+         font-size: large;
+
+         background-image: url("../IMAGES/dinner.jpg");
+         background-repeat: no-repeat;
+         color: white;
+         text-align: center;
+
+}
